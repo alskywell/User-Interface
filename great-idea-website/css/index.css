@@ -54,7 +54,8 @@ table {
 
 html, body {
     height: 100%;
-    font-family: 'Titillium Web', sans-serif;
+				font-family: 'Titillium Web', sans-serif;
+				font-weight: 600;
 }
 
 h1, h2, h3, h4, h5 {
@@ -64,3 +65,126 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.container {
+	width: 876px;
+	margin: 0 auto;
+	}
+
+nav {
+	display: inline-block;
+	width: 876px;
+	margin-bottom: 10px 0px 30px 0px;
+	background:;
+	height: 60px;
+	background:;
+}
+
+.nav-links {
+	display: inline-block;
+	background:;
+	width: 692;
+}
+nav a {
+	color:darkgrey;
+	text-decoration: none;
+	margin-right: 60px;
+}
+
+.logo {
+	background:;
+	width: 184px;
+	height: 60px;
+	display: inline-block;
+	background:;
+	vertical-align: middle;
+}
+
+#logo-image {
+	display: inline-block;
+	background:;
+	margin-top: 10px;
+}
+
+header { 
+	width: 876px;
+	margin: 20px 0px 40px 0px;
+	background:;
+}
+ 
+.slogan-container {
+	display: inline-block;
+	background:;
+	width: 436px;
+	height: 100%;
+	text-align: center;
+	font-size: 70px;
+	background:;
+	line-height: 
+}
+
+button {
+	width: 150px;
+	height: 30px;
+	border: solid 1px;
+	background: white;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+.circle-image {
+	display: inline-block;
+	width: 436px;
+	height: 100%;
+	background:;
+	text-align: center;
+}
+
+hr {
+	border: solid 2px darkgrey;
+	margin-bottom: 40px;
+}
+
+h2 {
+	font-weight: 800;
+}
+
+.top-content {
+	margin: 30px 0px 30px 0px;
+}
+
+.top-content-left {
+	display: inline-block;
+	width: 430px;
+	margin-right: 12px;
+}
+
+.top-content-right {
+	display: inline-block;
+	width: 430px;
+}
+
+.bottom-content {
+	margin: 30px 0 50px 0;
+}
+
+.bottom-content-left {
+	display: inline-block;
+	width: 33%;
+}
+
+.bottom-content-center {
+	display: inline-block;
+	width: 33%;
+}
+
+.bottom-content-right {
+	display: inline-block;
+	width: 33%;
+}
+
+footer {
+	text-align: center;
+	font-size: .9em;
+	margin-top: 40px
+}
